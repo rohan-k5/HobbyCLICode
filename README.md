@@ -1,2 +1,2 @@
 # HobbyCLICode
-showcase your CLI code here. It could be game or anything
+Showcase your CLI app here. It could be game or anything
