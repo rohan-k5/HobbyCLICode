@@ -1,6 +1,6 @@
 function validatePalin(str) {  
 
-  
+  //Javascript palindrome 
 
     // get the total length of the words  
 
