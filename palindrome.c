@@ -3,12 +3,14 @@
 int main() {
 
   int n, reversed = 0, remainder, original;
+  printf('Palindrome program in C');
 
     printf("Enter an integer: ");
 
     scanf("%d", &n);
 
     original = n;
+  // Added by Gowtham 
 
     // reversed integer is stored in reversed variable
 
