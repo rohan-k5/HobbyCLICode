@@ -18,13 +18,14 @@ function validatePalin(str) {
 
         if (string[i] !== string[len - 1 - i]) {  
 
-            alert( 'It is not a palindrome');  
+            alert( 'It is not a palindrome');
 
         }  
 
     }  
 
-    alert( 'It is a palindrome');  
+    alert( 'It is a palindrome'); 
+  console.log('Akhil');
 
 }  
 
